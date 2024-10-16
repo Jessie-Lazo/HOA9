@@ -1,0 +1,5 @@
+[ubuntu_servers]
+192.168.56.101 ansible_user=jessieserve ansible_python_interpreter=/usr/bin/python3
+
+[centos_servers]
+192.168.56.109 ansible_user=lazocentos ansible_python_interpreter=/usr/bin/python3
